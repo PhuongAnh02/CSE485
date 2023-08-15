@@ -18,8 +18,6 @@
         <tr>
           <th scope="col">employee_ID</th>
           <th scope="col">Aircraft_ID</th>
-          <th scope="col">Departure_Airport</th>
-          <th scope="col">Arrival_Airport</th>
           <th scope="col">employee_Duration</th>
         </tr>
       </thead>
